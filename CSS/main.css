@@ -9659,8 +9659,9 @@ body {
   background-color: red;
 }
 
-ul li {
-  margin: 0 0 0 1.2em;
+nav ul li {
+  margin-right: 0.5em;
+  padding-right: 1em;
 }
 
 /*# sourceMappingURL=main.css.map */
