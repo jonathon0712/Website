@@ -9655,13 +9655,8 @@ h3 {
     border-color: #dee2e6;
   }
 }
-body {
-  background-color: red;
-}
-
-nav ul li {
-  margin-right: 0.5em;
-  padding-right: 1em;
+.nav-link {
+  color: red;
 }
 
 /*# sourceMappingURL=main.css.map */

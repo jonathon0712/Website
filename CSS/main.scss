@@ -1,8 +1,5 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
-body{
-    background-color: red;
-}
-nav ul li{
-margin-right: .5em;
-padding-right:1em;
+
+.nav-link{
+color:red;
 }
